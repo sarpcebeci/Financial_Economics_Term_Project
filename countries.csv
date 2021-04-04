@@ -1,0 +1,16 @@
+iso3c,iso2c,country,region,capital,longitude,latitude,income,lending,links,indexes
+BRA,BR,Brazil,Latin America & Caribbean,Brasilia,-47.9292,-15.7801,Upper middle income,IBRD,https://www.investing.com/indices/tag-along-index-components,bovespa
+CHN,CN,China,East Asia & Pacific,Beijing,116.286,40.0495,Upper middle income,IBRD,https://www.investing.com/indices/szse-component-components,szse
+DEU,DE,Germany,Europe & Central Asia,Berlin,13.4115,52.5235,High income,Not classified,https://www.investing.com/indices/prime-all-share-components,dax
+ESP,ES,Spain,Europe & Central Asia,Madrid,-3.70327,40.4167,High income,Not classified,https://www.investing.com/indices/general-madrid-components,gm
+FRA,FR,France,Europe & Central Asia,Paris,2.35097,48.8566,High income,Not classified,https://www.investing.com/indices/cac-allshares-components,cac
+GBR,GB,UK,Europe & Central Asia,London,-0.126236,51.5002,High income,Not classified,https://www.investing.com/indices/ftse-350-components,ftse350
+IDN,ID,Indonesia,East Asia & Pacific,Jakarta,106.83,-6.19752,Lower middle income,IBRD,https://www.investing.com/indices/idx-composite-components,idx
+IND,IN,India,South Asia,New Delhi,77.225,28.6353,Lower middle income,IBRD,https://www.investing.com/indices/s-p-cnx-500-components,nifty500
+ISR,IL,Israel,Middle East & North Africa,,35.2035,31.7717,High income,Not classified,https://www.investing.com/indices/ta-composite-components,ta
+JPN,JP,Japan,East Asia & Pacific,Tokyo,139.77,35.67,High income,Not classified,https://www.investing.com/indices/topix-components,topix
+KOR,KR,SouthKorea,East Asia & Pacific,Seoul,126.957,37.5323,High income,Not classified,https://www.investing.com/indices/kosdaq-components,kosdaq
+NGA,NG,Nigeria,Sub-Saharan Africa,Abuja,7.48906,9.05804,Lower middle income,Blend,https://www.investing.com/indices/nse-all-share-components,nse
+POL,PL,Poland,Europe & Central Asia,Warsaw,21.02,52.26,High income,IBRD,https://www.investing.com/indices/wig-components,wig
+TUR,TR,Turkey,Europe & Central Asia,Ankara,32.3606,39.7153,Upper middle income,IBRD,https://www.investing.com/indices/ise-all-shares-components,bist
+USA,US,US,North America,Washington D.C.,-77.032,38.8895,High income,Not classified,https://www.investing.com/indices/nyse-composite-components,nyse
